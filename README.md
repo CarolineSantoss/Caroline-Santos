@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Caroline... and I'm a Desenvolvedora Web, FullStack ...,</p>
+<p align="left">My name is Caroline... and I'm a Desenvolvedora Web, Front End ...,</p>
 
 ###
 
